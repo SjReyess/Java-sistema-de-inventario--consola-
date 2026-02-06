@@ -14,6 +14,7 @@ Aplicación de consola desarrollada en Java.
 - Java
 - Scanner
 - Estructuras de control (while, switch)
+- Clases de metodo String (.trim, .isEmpTy)
 
 ## Estado del proyecto
 - Versión básica
